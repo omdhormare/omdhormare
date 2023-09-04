@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data structure,php,R-programing**
 
-- 👨‍💻 All of my projects are available at [http://mauliclasses.orgfree.com/index.html](http://mauliclasses.orgfree.com/index.html)
+- 👨‍💻 Check website created by me at [http://mauliclasses.orgfree.com/index.html](http://mauliclasses.orgfree.com/index.html)
 
 - 💬 Ask me about **C-language,javascript,DBMS,RDBMS**
 
