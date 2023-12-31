@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check the website created by me at [http://mauliclasses.orgfree.com/index.html](http://mauliclasses.orgfree.com/index.html)
 
-- 💬 Ask me about **C-language,javascript,Html And Css,DBMS,RDBMS**
+- 💬 Ask me about **C-language,javascript,Html And Css,DBMS,RDBMS,Data structure,php,R-programing**
 
 - 📫 How to reach me **omdhormare@gmail.com**
 
