@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure,php,R-programing**
+- 🌱 I’m currently learning **Data structure,php,R-programing,c++,Advance php**
 
 - 👨‍💻 Check the website created by me at [http://mauliclasses.orgfree.com/index.html](http://mauliclasses.orgfree.com/index.html)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/om__dhormare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om__dhormare" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om__dhormare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
