@@ -22,7 +22,12 @@
   <a href="https://wa.me/8625865446">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1198px-WhatsApp.svg.png" alt="WhatsApp" height="30" width="30" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:omdhormare@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020_logo.svg/1200px-Gmail_2020_logo.svg.png" alt="Gmail" height="30" width="30" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
