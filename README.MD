@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure,php,R-programing,Python,C++,Java,Python**
+- 🌱 I’m currently learning **Data-Structure(using C++),PHP,Python,C++,Java,Python**
 
 - 👨‍💻 Check the website created by me at : http://mauliclass.wuaze.com
 
 - 👨‍💻 Check the my project(library management system) created by me at: http://librarymanagementsystem123.infinityfreeapp.com
 
-- 💬 Ask me about **C-language,C++,Html And Css,DBMS,RDBMS,Data-structure,php,Python,C++,R-programing,Java**
+- 💬 Ask me about **C-language,C++,HTML And CSS,DBMS,RDBMS,Data-Structure(using C++),PHP,Python,C++,Java**
 
 - 📫 How to reach me **omdhormare@gmail.com**
 
