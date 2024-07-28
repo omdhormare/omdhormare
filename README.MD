@@ -1,4 +1,4 @@
-<h1 align="center"><font color="blue">Hi 👋, I'm Om Dhormare</font></h1>
+<h1 align="center"><font color="blue"><h1 align="center">Hello 👋, I'm Om Dhormare</h1></font></h1>
 <h2 align="center"><font color="green">Software development is a journey. Every bug fixed is a lesson learned.</font></h2>
 <img align="right" width=400 alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omdhormare&label=Profile%20views&color=0e75b6&style=flat" alt="omdhormare" /> </p>
