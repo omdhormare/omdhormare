@@ -11,7 +11,7 @@
 
 - 👨‍💻 Check the my project(library management system) created by me at: http://librarymanagementsystem123.infinityfreeapp.com
 
-- 💬 Ask me about **C-language,C++,HTML And CSS,DBMS,RDBMS,Data-Structure(using C++),PHP,Python,C++,Java**
+- 💬 Ask me about **C-language,C++,HTML And CSS,DBMS,RDBMS,Data-Structure(using C++),PHP(Core + Advance),Python,C++,Java**
 
 - 📫 How to reach me **omdhormare@gmail.com**
 
