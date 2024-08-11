@@ -22,6 +22,9 @@
   <a href="https://wa.me/8625865446">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1198px-WhatsApp.svg.png" alt="WhatsApp" height="30" width="30" />
   </a>
+  <a href="https://www.linkedin.com/in/omdhormare">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
 
 
