@@ -4,13 +4,13 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies...&center=true&width=400&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies...&center=true&width=500&height=50">
 </p>
 
 ---
 
 ### 💻 About Me:
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 70px;">
   <!-- Coding Image on the Left (Placeholder Image) -->
   <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="150" align="right" height="150" style="border-radius: 8px;"/>
 
