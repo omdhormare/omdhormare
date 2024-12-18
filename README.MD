@@ -19,23 +19,6 @@
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
     <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
     <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
-    
-    <p style="font-size: 18px; font-weight: bold;">🏆 Achievements:</p>
-    <ul style="font-size: 18px; list-style-type: none;">
-      <li>- Complete Internship at <strong>ASDN Cybernetics Inc.</strong></li>
-    </ul>
-    
-    <p style="font-size: 18px; font-weight: bold;">🧑‍💻 Experience:</p>
-    <p style="font-size: 18px;">During my internship at ASDN Cybernetics Inc (Apr 2024 - Jun 2024), I contributed to the development of a live project called "iStart." My responsibilities included:</p>
-    <ul style="font-size: 18px;">
-      <li>- Developing and maintaining the project using <strong>PHP, HTML, CSS, AJAX, and MySQL</strong></li>
-      <li>- Implementing responsive design for compatibility across various devices</li>
-      <li>- Collaborating with a team to troubleshoot and enhance project functionality</li>
-      <li>- Engaging in code reviews and implementing feedback to improve code quality</li>
-      <li>- Focusing on backend development for robust database management</li>
-    </ul>
-    
-    <p style="font-size: 18px;">⚡ Fun fact: I love coding challenges and exploring new technologies.</p>
   </div>
 </div>
 
