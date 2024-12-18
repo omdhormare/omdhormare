@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer+C++;Passionate+about+Java+Developer;Always+Learning+New+Technologies...&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer+C++++;Passionate+about+Java+Developer;Always+Learning+New+Technologies...&center=true&width=500&height=50">
 </p>
 
 ---
