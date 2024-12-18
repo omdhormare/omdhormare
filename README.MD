@@ -10,7 +10,7 @@
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Coding Image on the Left -->
-<img align="right" width="200" height="180" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
+<img align="right" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
   <!-- Text Content on the Right -->
   <div>
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
