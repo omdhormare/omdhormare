@@ -21,13 +21,14 @@
   <hr>
 
   <!-- Text Content -->
-  <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
+  <p style="font-size: 18px; font-weight: bold;">🌱 I’m learning <strong>Full Stack Development</strong></p>
   <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
-  <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
-  <p style="font-size: 18px; font-weight: bold;">Internship: ASDN Cybernetics Inc (Apr 2024 - Jun 2024)</p>
+  <p style="font-size: 18px;">📫 Reach me at: <strong>omdhormare@gmail.com</strong></p>
+
+  <!-- Internship Description with emoji -->
+  <p style="font-size: 18px; font-weight: bold;">🚀 Internship: ASDN Cybernetics Inc (Apr 2024 - Jun 2024)</p>
   <p style="font-size: 18px;">Contributed to "iStart" using PHP, HTML, CSS, AJAX, and MySQL. Focused on backend development and responsive design.</p>
   <p style="font-size: 18px;">Skills: <strong>PHP, MySQLi</strong></p>
-
 </div>
 
 
