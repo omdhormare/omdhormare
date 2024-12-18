@@ -1,5 +1,5 @@
 <!-- Om Dhormare - GitHub Profile -->
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
 </p>
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
