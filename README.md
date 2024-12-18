@@ -1,5 +1,7 @@
 <!-- Om Dhormare - GitHub Profile -->
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
+</p>
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer+C++++;Passionate+about+Java+Developer;Always+Learning+New+Technologies...&center=true&width=500&height=50">
@@ -63,8 +65,6 @@ Here are some of my favorite projects that I'm proud to showcase:
 <div align="center">
   <hr style="width: 80%; border: 1px solid #FF5733;">
 </div>
-
----
 
 ### 🤝 Let's Connect:
 <p align="center">
