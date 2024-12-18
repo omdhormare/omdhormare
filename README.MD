@@ -10,14 +10,22 @@
 ---
 
 ### 💻 About Me:
-- 🌱 I’m currently learning **Full Stack Development**  
-- 💬 Ask me about **PHP, MySQL, Python, and Java**  
-- 📫 How to reach me: **omdhormare@gmail.com**  
-- 🏆 Achievements:  
-   - **3rd Prize** in FEST-DER-TECH 2024 IT Event  
-   - **2nd Prize** in Blind Coding Competition  
-   - **Runner-Up** in SPANDAN Mex'2024 Web Development  
-- ⚡ Fun fact: I love coding challenges and exploring new technologies.
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- Coding Image on the Left -->
+  <img src="https://i.imgur.com/T0Q4R7n.png" alt="Coding" width="150" height="150" style="border-radius: 8px;"/>
+
+  <!-- Text Content on the Right -->
+  <div>
+    <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
+    <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
+    <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
+    <p style="font-size: 18px; font-weight: bold;">🏆 Achievements:</p>
+    <ul style="font-size: 18px; list-style-type: none;">
+      <li>- Complete Internship</li>
+    </ul>
+    <p style="font-size: 18px;">⚡ Fun fact: I love coding challenges and exploring new technologies.</p>
+  </div>
+</div>
 
 ---
 
