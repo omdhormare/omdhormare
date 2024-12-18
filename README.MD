@@ -39,6 +39,14 @@
 
 ---
 
+### 🌟 Projects:
+Here are some of my favorite projects:  
+- 📝 [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)  
+- 💡 [Mauli Class Static Website](http://mauliclass.wuaze.com)  
+- 🛠️ Employee Management System (Python & Tkinter)
+
+---
+
 ### 📈 Contributions:
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=omdhormare&theme=rogue" alt="Contribution Graph" />
@@ -56,6 +64,17 @@
 
 ---
 
+### 🚀 **Fun Footer Section**:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Thank+You+for+Visiting!;Happy+Coding!+🚀;Let's+Connect+and+Grow+Together!" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge" />
 </p>
