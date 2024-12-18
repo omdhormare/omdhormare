@@ -47,13 +47,6 @@ Here are some of my favorite projects:
 
 ---
 
-### 📈 Contributions:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=omdhormare&theme=rogue" alt="Contribution Graph" />
-</p>
-
----
-
 ### 🤝 Let's Connect:
 <p align="center">
   <a href="https://github.com/omdhormare"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
