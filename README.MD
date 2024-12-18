@@ -9,57 +9,57 @@
 
 ---
 
-### 💻 About Me:
-- 🌱 I’m currently learning **Full Stack Development**  
-- 💬 Ask me about **PHP, MySQL, Python, and Java**  
-- 📫 How to reach me: **omdhormare@gmail.com**  
-- 🏆 Achievements:  
-   - **3rd Prize** in FEST-DER-TECH 2024 IT Event  
-   - **2nd Prize** in Blind Coding Competition  
-   - **Runner-Up** in SPANDAN Mex'2024 Web Development  
-- ⚡ Fun fact: I love coding challenges and exploring new technologies.
+### 💻 **Popular Repositories**
+<p align="center">
+  <a href="https://github.com/omdhormare/Data-Structure">
+    <img src="https://img.shields.io/badge/Data--Structure-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://github.com/omdhormare/omdhormare">
+    <img src="https://img.shields.io/badge/omdhormare-Public-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/omdhormare/PHP-Hypertext-Preprocessor">
+    <img src="https://img.shields.io/badge/PHP-Hypertext%20Preprocessor-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+  <a href="https://github.com/omdhormare/R-Programing">
+    <img src="https://img.shields.io/badge/R--Programming-Public-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  </a>
+  <a href="https://github.com/omdhormare/CPP">
+    <img src="https://img.shields.io/badge/CPP-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://github.com/omdhormare/Advance-PHP">
+    <img src="https://img.shields.io/badge/Advance--PHP-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 📈 **310 Contributions in the Last Year**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhormare&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🛠️ **Tools & Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,python,java,html,css,js,git,github" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=radical" alt="Streak Stats" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🌟 Projects:
-Here are some of my favorite projects:  
-- 📝 [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)  
-- 💡 [Mauli Class Static Website](http://mauliclass.wuaze.com)  
-- 🛠️ Employee Management System (Python & Tkinter)
-
----
-
-### 🤝 Let's Connect:
+### 🤝 **Let's Connect**
 <p align="center">
   <a href="https://github.com/omdhormare"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:omdhormare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://codebyom.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
----
-
-### 🚀 **Fun Footer Section**:
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Thank+You+for+Visiting!;Happy+Coding!+🚀;Let's+Connect+and+Grow+Together!" />
 </p>
 
 ---
@@ -67,7 +67,6 @@ Here are some of my favorite projects:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Thank+You!&message=Keep+Learning+and+Growing!&color=blueviolet&style=for-the-badge" />
 </p>
