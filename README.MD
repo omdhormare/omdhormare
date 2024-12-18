@@ -42,11 +42,16 @@
 ### 🌟 My Awesome Projects:
 Here are some of my favorite projects that I'm proud to showcase:
 
-<p align="center">
-  <span style="font-size: 18px; color: #FF5733;">📝 <a href="http://librarymanagementsystem123.infinityfreeapp.com" style="color: #FF5733; text-decoration: none;">Library Management System</a></span><br>
-  <span style="font-size: 18px; color: #1E90FF;">💡 <a href="http://mauliclass.wuaze.com" style="color: #1E90FF; text-decoration: none;">Mauli Class Static Website</a></span><br>
-  <span style="font-size: 18px; color: #32CD32;">🛠️ <a href="https://github.com/omdhormare/employee-management-system" style="color: #32CD32; text-decoration: none;">Employee Management System (Python & Tkinter)</a></span>
+<p align="center" style="font-size: 20px; font-weight: bold; color: #FF5733;">🌟 My Awesome Projects</p>
+<p align="center" style="font-size: 16px; color: #333;">
+  <span style="font-size: 18px; color: #FF5733; font-weight: bold;">📝 <a href="http://librarymanagementsystem123.infinityfreeapp.com" style="color: #FF5733; text-decoration: none; font-size: 18px;">Library Management System</a></span><br><br>
+  <span style="font-size: 18px; color: #1E90FF; font-weight: bold;">💡 <a href="http://mauliclass.wuaze.com" style="color: #1E90FF; text-decoration: none; font-size: 18px;">Mauli Class Static Website</a></span><br><br>
+  <span style="font-size: 18px; color: #32CD32; font-weight: bold;">🛠️ <a href="https://github.com/omdhormare/employee-management-system" style="color: #32CD32; text-decoration: none; font-size: 18px;">Employee Management System (Python & Tkinter)</a></span>
 </p>
+
+<div align="center">
+  <hr style="width: 80%; border: 1px solid #FF5733;">
+</div>
 
 ---
 
