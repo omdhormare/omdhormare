@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" width="400" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU" />
+
 ---
 
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Coding Image on the Left (Placeholder Image) -->
-  <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="150" height="150" style="border-radius: 8px;"/>
 
   <!-- Text Content on the Right -->
   <div>
