@@ -4,17 +4,16 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 ---
 ### 💻 About Me:
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Coding Image on the Left -->
-
-  <!-- Text Content on the Right -->
-<img align="right" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
-
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+  <!-- Text Content on the Left -->
   <div>
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
     <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
     <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
   </div>
+  
+  <!-- Coding Image on the Right -->
+  <img align="right" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
 </div>
 
 ---
@@ -70,5 +69,4 @@ Here are some of my favorite projects that I'm proud to showcase:
 </p>
 
 ---------------------
-<img align="right" width="200" height="180" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omdhormare&label=Profile%20views&color=0e75b6&style=flat" alt="omdhormare" /> </p>
