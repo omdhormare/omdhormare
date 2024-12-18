@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-
-<img align="left" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
-
 ---
 
 ### 💻 About Me:
@@ -16,7 +13,8 @@
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
     <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
     <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
-<img align="left" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
+<img align="right" width="200" height="150" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
+
 
   </div>
 </div>
