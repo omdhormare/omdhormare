@@ -12,7 +12,7 @@
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 70px;">
   <!-- Coding Image on the Left (Placeholder Image) -->
-  <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="150" align="center" height="150" style="border-radius: 8px;"/>
+  <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="150" align="right" height="150" style="border-radius: 30px;"/>
 
   <!-- Text Content on the Right -->
   <div>
