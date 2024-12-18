@@ -11,18 +11,30 @@
 
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Coding Image on the Left -->
-  <img src="https://i.imgur.com/T0Q4R7n.png" alt="Coding" width="150" height="150" style="border-radius: 8px;"/>
+  <!-- Coding Image on the Left (Placeholder Image) -->
+  <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="150" height="150" style="border-radius: 8px;"/>
 
   <!-- Text Content on the Right -->
   <div>
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
     <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
     <p style="font-size: 18px;">📫 How to reach me: <strong>omdhormare@gmail.com</strong></p>
+    
     <p style="font-size: 18px; font-weight: bold;">🏆 Achievements:</p>
     <ul style="font-size: 18px; list-style-type: none;">
-      <li>- Complete Internship</li>
+      <li>- Complete Internship at <strong>ASDN Cybernetics Inc.</strong></li>
     </ul>
+    
+    <p style="font-size: 18px; font-weight: bold;">🧑‍💻 Experience:</p>
+    <p style="font-size: 18px;">During my internship at ASDN Cybernetics Inc (Apr 2024 - Jun 2024), I contributed to the development of a live project called "iStart." My responsibilities included:</p>
+    <ul style="font-size: 18px;">
+      <li>- Developing and maintaining the project using <strong>PHP, HTML, CSS, AJAX, and MySQL</strong></li>
+      <li>- Implementing responsive design for compatibility across various devices</li>
+      <li>- Collaborating with a team to troubleshoot and enhance project functionality</li>
+      <li>- Engaging in code reviews and implementing feedback to improve code quality</li>
+      <li>- Focusing on backend development for robust database management</li>
+    </ul>
+    
     <p style="font-size: 18px;">⚡ Fun fact: I love coding challenges and exploring new technologies.</p>
   </div>
 </div>
@@ -32,17 +44,6 @@
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,python,java,html,css,js,git,github" />
-</p>
-
----
-
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=radical" alt="Streak Stats" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -69,14 +70,13 @@ Here are some of my favorite projects that I'm proud to showcase:
 ### 🤝 Let's Connect:
 <p align="center">
   <a href="https://github.com/omdhormare"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/omdhormare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:omdhormare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://codebyom.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 **Fun Footer Section**:
+### 🚀 **Thank You for Visiting!**:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Thank+You+for+Visiting!;Happy+Coding!+🚀;Let's+Connect+and+Grow+Together!" />
 </p>
