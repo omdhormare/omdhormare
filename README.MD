@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-
+---
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Coding Image on the Left -->
