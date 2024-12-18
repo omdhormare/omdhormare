@@ -1,7 +1,7 @@
 <!-- Om Dhormare - GitHub Profile -->
 
-<h1 align="center">Hi 👋, I'm Om Dhormare</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center" style="color: #FF5733;">Hi 👋, I'm Om Dhormare</h1>
+<h3 align="center" style="color: #33FF57;">A passionate Web Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies...&center=true&width=500&height=50">
@@ -20,28 +20,28 @@
 ---
 
 ### 🌱 **I’m currently learning**
-**Data-Structure(using C++), PHP, Python, C++, Java, Python**
+<span style="color: #FF6347;">**Data-Structure(using C++), PHP, Python, C++, Java, Python**</span>
 
 ---
 
 ### 👨‍💻 **Check out my projects**:
-- **Website**: [Mauli Class Website](http://mauliclass.wuaze.com)
-- **Library Management System**: [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)
+- **Website**: <span style="color: #9C27B0;">[Mauli Class Website](http://mauliclass.wuaze.com)</span>
+- **Library Management System**: <span style="color: #FFEB3B;">[Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)</span>
 
 ---
 
 ### 💬 **Ask me about**
-- **C-language, C++, HTML And CSS, DBMS, RDBMS, Data-Structure(using C++), PHP(Core + Advance), Python, C++, Java**
+- <span style="color: #FF5722;">**C-language, C++, HTML And CSS, DBMS, RDBMS, Data-Structure(using C++), PHP(Core + Advance), Python, C++, Java**</span>
 
 ---
 
 ### 📫 **How to reach me**
-- **Email**: omdhormare@gmail.com
+- <span style="color: #2196F3;">**Email**: omdhormare@gmail.com</span>
 
 ---
 
 ### ⚡ **Fun fact**
-- **I think I am funny**
+- <span style="color: #00BCD4;">**I think I am funny**</span>
 
 ---
 
@@ -86,8 +86,8 @@
 
 | Project Name              | Link                                                                                   |
 |---------------------------|----------------------------------------------------------------------------------------|
-| **Mauli Class Website**    | [Mauli Class Website](http://mauliclass.wuaze.com)                                     |
-| **Library Management System** | [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)    |
+| <span style="color: #8BC34A;">**Mauli Class Website**</span>    | <span style="color: #9C27B0;">[Mauli Class Website](http://mauliclass.wuaze.com)</span>                                     |
+| <span style="color: #FFEB3B;">**Library Management System**</span> | <span style="color: #FFEB3B;">[Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)</span>    |
 
 ---
 
