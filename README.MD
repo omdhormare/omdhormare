@@ -1,76 +1,33 @@
-<h1 align="center">
-  <font color="blue">Hello 👋, I'm Om Dhormare</font>
-</h1>
+<h1 align="center">Hi 👋, I'm Om Dhormare</h1>
+<h3 align="center">A passionate developer skilled in PHP, MySQL, Python, and Java</h3>
 
-<h2 align="center">
-  <font color="green">"Software development is a journey. Every bug fixed is a lesson learned."</font>
-</h2>
-
-<img align="right" width=400 alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=omdhormare&label=Profile%20views&color=0e75b6&style=flat" alt="omdhormare" /> 
+<p align="center">
+  <img src="https://i.imgur.com/yourBannerImageLink.gif" alt="Banner" width="600"/>
 </p>
 
----
-
-### 🌱 **About Me**
-- 🌱 Currently learning **Data Structures (C++), PHP, Python, Java**
-- 👨‍💻 My website: [Mauli Class](http://mauliclass.wuaze.com)  
-- 👨‍💻 My project: [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)
-- 💬 Ask me about **C++, HTML, CSS, PHP, Python, Java**
-- 📫 Reach me: **omdhormare@gmail.com**
-- ⚡ Fun fact: **"I think I am funny 😄"**
-
----
-
-### 🛠️ **Languages and Tools**
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a> 
+<p align="center">
+<a href="https://github.com/omdhormare"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:omdhormare@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-### 📈 **GitHub Stats**
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omdhormare&show_icons=true&locale=en&layout=compact" alt="omdhormare" />
+### 🛠️ Skills and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&locale=en" alt="omdhormare" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&theme=radical" alt="Om's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omdhormare&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omdhormare&" alt="omdhormare" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-### 🤝 **Connect with Me**
-<p align="left">
-  <a href="https://wa.me/8625865446">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1198px-WhatsApp.svg.png" alt="WhatsApp" height="30" width="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/omdhormare">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30"/>
-  </a>
-</p>
-
----
-
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-
----
-
-This design adds a polished appearance to your profile while keeping your content intact. Let me know if you'd like any further changes! 🚀
