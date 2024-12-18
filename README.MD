@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies...&center=true&width=500&height=50">
-</p>
+<img align="right" width=400 alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"
+<p align="left">
 
 ---
 
