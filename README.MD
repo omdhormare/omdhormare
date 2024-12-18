@@ -12,6 +12,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Code+Is+My+Passion;Innovation+Through+Code;Building+The+Future+With+Programming...&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Solving+Problems+With+Code;Embracing+Challenges+Everyday;Continuous+Learning+Is+The+Key...&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Coding+Is+My+Superpower;Building+Solutions+One+Line+At+A+Time;Let's+Code+Together...&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Stay+Curious+&+Keep+Coding;Code+Your+Future;Dream+Big+And+Code+Bigger...&center=true&width=500&height=50">
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Code+Is+My+Passion;Innovation+Through+Code;Building+The+Future+With+Programming...&center=true&width=500&height=50">
+</p>
+
 
 
 ---
