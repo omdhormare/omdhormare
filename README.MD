@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" width=400 alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"
-<p align="left">
+<img align="right" width="400" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU" />
 
 ---
 
@@ -72,3 +71,7 @@ Here are some of my favorite projects that I'm proud to showcase:
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge" />
 </p>
+
+---------------------
+<img align="right" width="400" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omdhormare&label=Profile%20views&color=0e75b6&style=flat" alt="omdhormare" /> </p>
