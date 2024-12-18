@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left">
+<p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=PHP+%7C+Python+%7C+Java+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies...&center=true&width=500&height=50">
 </p>
 
