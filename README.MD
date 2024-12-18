@@ -9,7 +9,17 @@
 
 ---
 
-### 💻 **Popular Repositories**
+### 💻 **About Me**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Personal-Portfolio-00A0B0?style=for-the-badge&logo=portfolio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobbies-Reading%2C+Coding-3B82F6?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Open%20Source-4A90E2?style=for-the-badge&logo=open-source&logoColor=white" />
+</p>
+
+---
+
+### 🚀 **Popular Repositories**
 <p align="center">
   <a href="https://github.com/omdhormare/Data-Structure">
     <img src="https://img.shields.io/badge/Data--Structure-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,7 +43,7 @@
 
 ---
 
-### 📈 **310 Contributions in the Last Year**
+### 📈 **Contributions in the Last Year**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -47,7 +57,7 @@
 
 ---
 
-### 🛠️ **Tools & Languages**
+### 🛠️ **Technologies & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,python,java,html,css,js,git,github" />
 </p>
