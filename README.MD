@@ -39,18 +39,21 @@
 
 ---
 
-### 🌟 Projects:
-Here are some of my favorite projects:  
-- 📝 [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)  
-- 💡 [Mauli Class Static Website](http://mauliclass.wuaze.com)  
-- 🛠️ [Employee Management System (Python & Tkinter)](https://github.com/omdhormare/employee-management-system)
+### 🌟 My Awesome Projects:
+Here are some of my favorite projects that I'm proud to showcase:
+
+<p align="center">
+  <span style="font-size: 18px; color: #FF5733;">📝 <a href="http://librarymanagementsystem123.infinityfreeapp.com" style="color: #FF5733; text-decoration: none;">Library Management System</a></span><br>
+  <span style="font-size: 18px; color: #1E90FF;">💡 <a href="http://mauliclass.wuaze.com" style="color: #1E90FF; text-decoration: none;">Mauli Class Static Website</a></span><br>
+  <span style="font-size: 18px; color: #32CD32;">🛠️ <a href="https://github.com/omdhormare/employee-management-system" style="color: #32CD32; text-decoration: none;">Employee Management System (Python & Tkinter)</a></span>
+</p>
 
 ---
 
 ### 🤝 Let's Connect:
 <p align="center">
   <a href="https://github.com/omdhormare"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/omdhormare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:omdhormare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://codebyom.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
