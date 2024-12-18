@@ -3,15 +3,14 @@
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" width="200" height="180" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
+
 
 ---
 
 ### 💻 About Me:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Coding Image on the Left -->
-  <img src="https://i.imgur.com/6MF9SHF.png" alt="Coding" width="200" height="180" style="border-radius: 8px;"/>
-
+<img align="right" width="200" height="180" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU" />
   <!-- Text Content on the Right -->
   <div>
     <p style="font-size: 18px; font-weight: bold;">🌱 I’m currently learning <strong>Full Stack Development</strong></p>
