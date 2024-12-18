@@ -75,6 +75,14 @@ Here are some of my favorite projects that I'm proud to showcase:
 
 ---
 
+### 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
 ### 🚀 **Thank You for Visiting!**:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Thank+You+for+Visiting!;Happy+Coding!+🚀;Let's+Connect+and+Grow+Together!" />
