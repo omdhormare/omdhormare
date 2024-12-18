@@ -1,5 +1,5 @@
 <!-- Om Dhormare - GitHub Profile -->
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
 </p>
 <h1 align="center">Hi 👋, I'm Om Dhormare</h1>
@@ -89,11 +89,6 @@ Here are some of my favorite projects that I'm proud to showcase:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge" />
 </p>
