@@ -84,11 +84,10 @@
 ### 📈 **Projects**:
 #### Web Projects
 
-| Project Name          | Link                                             |
-|-----------------------|--------------------------------------------------|
-| **Calculator**         | [Calculator](http://example.com)                 |
-| **Bakery-Shop**        | [Bakery Shop](http://example.com)                |
-| **Briyni-House**       | [Briyni House](http://example.com)               |
+| Project Name              | Link                                                                                   |
+|---------------------------|----------------------------------------------------------------------------------------|
+| **Mauli Class Website**    | [Mauli Class Website](http://mauliclass.wuaze.com)                                     |
+| **Library Management System** | [Library Management System](http://librarymanagementsystem123.infinityfreeapp.com)    |
 
 ---
 
