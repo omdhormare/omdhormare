@@ -23,7 +23,7 @@
   width="90" 
   height="90" 
   alt="Coding" 
-  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)"
+  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)](https://cdnl.iconscout.com/lottie/premium/preview-watermark/trabajador-de-oficina-durmiendo-en-el-escritorio-sonando-con-viajes-espaciales-animation-gif-download-13174134.mp4)"
 />
 
   <!-- Bottom line below image -->
