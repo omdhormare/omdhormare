@@ -18,7 +18,7 @@
  
 
   <!-- Coding Image -->
-  <img align="right" width="300" height="300" alt="Coding" src="[https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU](https://www.vecteezy.com/video/11865108-animated-developer-flat-character-full-body-person-4k-video-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation)" />
+  <img align="right" width="300" height="300" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU](https://www.vecteezy.com/video/11865108-animated-developer-flat-character-full-body-person-4k-video-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation)" />
 
   <!-- Bottom line below image -->
   <hr>
