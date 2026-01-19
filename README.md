@@ -23,7 +23,7 @@
   width="200" 
   height="200" 
   alt="Coding" 
-  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta"
+  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)"
 />
 
   <!-- Bottom line below image -->
