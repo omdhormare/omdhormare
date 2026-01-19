@@ -18,7 +18,13 @@
  
 
   <!-- Coding Image -->
-  <img align="right" width="200" height="200" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta&t=p4pUNU0mac0DZUH49YUYqybW7crGmcBJ-kXFmFKwFwU](https://www.vecteezy.com/video/11865108-animated-developer-flat-character-full-body-person-4k-video-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation)](https://www.vecteezy.com/video/24186673-coding-programming-web-development-modern-design-concept)"/>
+<img 
+  align="right" 
+  width="200" 
+  height="200" 
+  alt="Coding" 
+  src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1740009600&v=beta"
+/>
 
   <!-- Bottom line below image -->
   <hr>
