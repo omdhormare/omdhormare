@@ -23,15 +23,33 @@
   <hr>
 
   <!-- Text Content -->
-  <p style="font-size: 18px; font-weight: bold;">🌱 I’m learning <strong>Full Stack Development</strong></p>
-  <p style="font-size: 18px;">💬 Ask me about <strong>PHP, MySQL, Python, and Java</strong></p>
-  <p style="font-size: 18px;">📫 Reach me at: <strong>omdhormare@gmail.com</strong></p>
+<p style="font-size: 18px; font-weight: bold;">🚀 I am a <strong>Full Stack Developer</strong></p>
+<p style="font-size: 18px;">🎨 Frontend: <strong>HTML, CSS, JavaScript</strong></p>
+<p style="font-size: 18px;">⚙️ Backend: <strong>PHP, MySQL, Python, Java</strong></p>
+<p style="font-size: 18px;">📫 Reach me at: <strong>omdhormare@gmail.com</strong></p>
+
 
   <!-- Internship Description with emoji -->
-  <p style="font-size: 18px; font-weight: bold;">🚀 Internship: ASDN Cybernetics Inc (Apr 2024 - Oct 2024)</p>
-  <p style="font-size: 18px;">Contributed to "iStart" using PHP, HTML, CSS, AJAX, and MySQL.
-                              Focused on backend development and responsive design.</p>
-  <p style="font-size: 18px;">Skills: <strong>PHP, MySQLi</strong></p>
+ <p style="font-size: 18px; font-weight: bold;">
+  🚀 Internship: ASDN Cybernetics Inc (Apr 2024 - Oct 2024)
+</p>
+
+<p style="font-size: 18px;">
+  Contributed to <strong>"iStart"</strong> project.
+</p>
+
+<p style="font-size: 18px;">
+  🎨 Frontend: <strong>HTML, CSS, JavaScript</strong>
+</p>
+
+<p style="font-size: 18px;">
+  ⚙️ Backend: <strong>PHP</strong>
+</p>
+
+<p style="font-size: 18px;">
+  🗄️ Database: <strong>MySQL</strong>
+</p>
+
 
 </div>
 
