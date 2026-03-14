@@ -142,9 +142,9 @@ me.say_hi()
 <div align="center">
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-38%2B-F7B93E?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-6-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-5%2B-7B2FBE?style=for-the-badge&logo=code&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-7B2FBE?style=for-the-badge&logo=github&logoColor=white)
 ![Projects](https://img.shields.io/badge/Live%20Projects-3-2ea043?style=for-the-badge&logo=vercel&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-5%2B-0075CA?style=for-the-badge&logo=code&logoColor=white)
 ![Internship](https://img.shields.io/badge/Internship-6%20Months-ED8B00?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
