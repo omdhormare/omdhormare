@@ -11,8 +11,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/omdhormare?style=for-the-badge&color=0075CA&label=FOLLOWERS)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-6-2ea043?style=for-the-badge)
 
 </div>
 
