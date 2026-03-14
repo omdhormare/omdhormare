@@ -2,19 +2,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Om%20Dhormare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Dhormare&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omdhormare?style=for-the-badge&color=blue&label=FOLLOWERS" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/omdhormare?style=for-the-badge&color=0075CA&label=FOLLOWERS)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-6-green?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/STATUS-Open%20To%20Work-brightgreen?style=for-the-badge)
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&multiline=false&width=600&height=60&lines=PHP+%7C+Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%8C%90;Passionate+about+Building+Solutions+%F0%9F%92%A1;Always+Learning+New+Technologies+%F0%9F%93%9A;Code+Is+My+Superpower+%E2%9A%A1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=650&height=60&lines=PHP+%7C+Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%8C%90;Passionate+about+Building+Solutions+%F0%9F%92%A1;Always+Learning+New+Technologies+%F0%9F%93%9A;Code+Is+My+Superpower+%E2%9A%A1;Building+Real+World+Apps+%F0%9F%8C%9F" />
+
 </div>
 
 ---
@@ -27,14 +35,16 @@ class OmDhormare:
         self.name       = "Om Dhormare"
         self.role       = "Full Stack Developer"
         self.email      = "omdhormare@gmail.com"
+        self.location   = "India 🇮🇳"
         self.frontend   = ["HTML", "CSS", "JavaScript"]
         self.backend    = ["PHP", "Python", "Java", "C++"]
         self.database   = ["MySQL"]
         self.tools      = ["Git", "GitHub", "VS Code"]
         self.passion    = "Building real-world solutions through code"
-    
+        self.fun_fact   = "I turn ☕ coffee into 💻 code!"
+
     def say_hi(self):
-        print("Thanks for visiting my GitHub profile! Let's build something awesome together 🚀")
+        print("Thanks for visiting my GitHub! Let's build something awesome together 🚀")
 
 me = OmDhormare()
 me.say_hi()
@@ -44,80 +54,18 @@ me.say_hi()
 
 ## 🏢 Internship Experience
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**🏢 Company**
+| Field | Details |
+|-------|---------|
+| 🏢 **Company** | ASDN Cybernetics Inc. |
+| 📅 **Duration** | Apr 2024 – Oct 2024 &nbsp;(6 Months) |
+| 💼 **Project** | **iStart** — Full Stack Web Application |
+| 🎨 **Frontend** | HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript |
+| ⚙️ **Backend** | PHP |
+| 🗄️ **Database** | MySQL |
 
-</td>
-<td>
-
-ASDN Cybernetics Inc.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**📅 Duration**
-
-</td>
-<td>
-
-Apr 2024 – Oct 2024 (6 Months)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**💼 Project**
-
-</td>
-<td>
-
-**iStart** — Full Stack Web Application
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🎨 Frontend**
-
-</td>
-<td>
-
-HTML · CSS · JavaScript
-
-</td>
-</tr>
-<tr>
-<td>
-
-**⚙️ Backend**
-
-</td>
-<td>
-
-PHP
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🗄️ Database**
-
-</td>
-<td>
-
-MySQL
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -143,6 +91,7 @@ MySQL
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -152,11 +101,11 @@ MySQL
 
 <div align="center">
 
-| # | Project | Tech Stack | Live |
+| # | Project | Tech Stack | Link |
 |---|---------|-----------|------|
-| 📝 | **Library Management System** | PHP · MySQL · HTML/CSS/JS | [🔗 Live](http://librarymanagementsystem123.infinityfreeapp.com) |
-| 💡 | **Mauli Class Static Website** | HTML · CSS · JavaScript | [🔗 Live](http://mauliclass.wuaze.com) |
-| 🛠️ | **Employee Management System** | Python · Tkinter | [🔗 GitHub](https://github.com/omdhormare/employee-management-system) |
+| 📝 | **Library Management System** | `PHP` `MySQL` `HTML` `CSS` `JS` | [🔗 Live Demo](http://librarymanagementsystem123.infinityfreeapp.com) |
+| 💡 | **Mauli Class Static Website** | `HTML` `CSS` `JavaScript` | [🔗 Live Demo](http://mauliclass.wuaze.com) |
+| 🛠️ | **Employee Management System** | `Python` `Tkinter` | [🔗 GitHub](https://github.com/omdhormare/employee-management-system) |
 
 </div>
 
@@ -165,16 +114,22 @@ MySQL
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhormare&theme=tokyo-night&border_radius=10&hide_border=false" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhormare&theme=tokyo-night&border_radius=10&hide_border=false&area=true" width="100%"/>
+
 </div>
 
 ---
@@ -182,7 +137,19 @@ MySQL
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omdhormare&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=omdhormare&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/omdhormare/omdhormare/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -194,6 +161,7 @@ MySQL
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omdhormare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omdhormare)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdhormare@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://mauliclass.wuaze.com)
 
 </div>
 
@@ -201,14 +169,14 @@ MySQL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!+%F0%9F%99%8F;Happy+Coding!+%F0%9F%9A%80;Let's+Connect+and+Grow+Together!+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=600&color=FF5733&center=true&vCenter=true&width=550&lines=Thank+You+for+Visiting!+%F0%9F%99%8F;Happy+Coding!+%F0%9F%9A%80;Let%27s+Connect+and+Grow+Together!+%F0%9F%8C%9F;Keep+Learning+%26+Keep+Building!+%F0%9F%92%AA" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/static/v1?label=%E2%9A%A1+Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge" />
+![Code with Om](https://img.shields.io/static/v1?label=%E2%9A%A1+Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge)
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
