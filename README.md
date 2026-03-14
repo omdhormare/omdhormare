@@ -13,7 +13,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/omdhormare?style=for-the-badge&color=0075CA&label=FOLLOWERS)
 ![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-6-2ea043?style=for-the-badge)
-![Open To Work](https://img.shields.io/badge/STATUS-Open%20To%20Work-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -138,11 +137,15 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omdhormare&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" />
+![Commits](https://img.shields.io/badge/Total%20Commits-38%2B-F7B93E?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-5%2B-7B2FBE?style=for-the-badge&logo=code&logoColor=white)
+![Projects](https://img.shields.io/badge/Live%20Projects-3-2ea043?style=for-the-badge&logo=vercel&logoColor=white)
+![Internship](https://img.shields.io/badge/Internship-6%20Months-ED8B00?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
 
