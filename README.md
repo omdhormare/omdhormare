@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omdhormare&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/omdhormare?style=for-the-badge&color=0075CA&label=FOLLOWERS)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-6-green?style=for-the-badge)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-6-2ea043?style=for-the-badge)
 ![Open To Work](https://img.shields.io/badge/STATUS-Open%20To%20Work-brightgreen?style=for-the-badge)
 
 </div>
@@ -59,9 +59,9 @@ me.say_hi()
 | Field | Details |
 |-------|---------|
 | 🏢 **Company** | ASDN Cybernetics Inc. |
-| 📅 **Duration** | Apr 2024 – Oct 2024 &nbsp;(6 Months) |
+| 📅 **Duration** | Apr 2024 – Oct 2024 (6 Months) |
 | 💼 **Project** | **iStart** — Full Stack Web Application |
-| 🎨 **Frontend** | HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript |
+| 🎨 **Frontend** | HTML · CSS · JavaScript |
 | ⚙️ **Backend** | PHP |
 | 🗄️ **Database** | MySQL |
 
@@ -74,6 +74,7 @@ me.say_hi()
 <div align="center">
 
 ### 💻 Programming Languages
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -81,13 +82,16 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -115,20 +119,20 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdhormare&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhormare&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=omdhormare&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=omdhormare&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhormare&theme=tokyo-night&border_radius=10&hide_border=false&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhormare&theme=tokyo-night&border_radius=10&area=true" width="100%"/>
 
 </div>
 
@@ -138,17 +142,17 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omdhormare&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=omdhormare&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" />
 
 </div>
 
 ---
 
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omdhormare/omdhormare/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -173,7 +177,7 @@ me.say_hi()
 
 <br/><br/>
 
-![Code with Om](https://img.shields.io/static/v1?label=%E2%9A%A1+Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge)
+![Footer Badge](https://img.shields.io/static/v1?label=%E2%9A%A1+Code+with+Om&message=Keep+Learning!&color=blueviolet&style=for-the-badge)
 
 <br/><br/>
 
